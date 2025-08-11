@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Hello') {
       steps {
-        echo 'Hello from docker agent!'
+        echo 'Hello from docker agent! 2'
       }
     }
   }
